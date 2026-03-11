@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the return policy?",
+        "answer": "Our return policy allows you to return products within 30 days of purchase. Please ensure that the items are in their original condition and packaging."
+    },
+    {
+        "question": "Do you offer international shipping?",
+        "answer": "Yes, we offer international shipping to select countries. Shipping fees and delivery times may vary based on the destination."
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "Once your order has been shipped, you will receive a tracking number via email. You can use this number to track your order on our website or through the carrier's tracking system."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept various payment methods including credit cards, debit cards, PayPal, and bank transfers. Please check our payment options at checkout for more details."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact our customer support team via email at support@company.com or through our website's contact form."
+    }
+]
