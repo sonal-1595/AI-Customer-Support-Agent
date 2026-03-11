@@ -239,6 +239,6 @@ Results show the system effectively combines **semantic retrieval and generative
 ---
 
 # 👩‍💻 Author
-
-Faiza
+Sonal Mishra
 AI Customer Support Agent Project
+
